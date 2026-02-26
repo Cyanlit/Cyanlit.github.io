@@ -14,15 +14,11 @@ My academic training centers on data structures, algorithms, operating systems, 
 
 I value clarity, disciplined problem-solving, and careful reasoning in both coursework and projects.
 
----
-
 ## Areas of Interest
 
 - Data Structures and Algorithms  
 - System Programming  
 - Backend Development  
-
----
 
 ## Technical Background
 
@@ -34,8 +30,10 @@ I value clarity, disciplined problem-solving, and careful reasoning in both cour
 ### Systems & Development
 - Git / Version Control
 - Basic Networking Concepts
----
+
 ## Philosophy
 
 I believe solid fundamentals are essential for long-term growth in computer science.  
 I aim to build depth through disciplined study and consistent practice.
+
+Click [here to return](https://github.com/cyanlit) to my GitHub profile.
